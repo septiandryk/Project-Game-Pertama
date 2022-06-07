@@ -1,0 +1,7 @@
+Library/* 
+Logs/* 
+Temp/* 
+ 
+.vsconfig 
+*.sln 
+Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventTrigger.cs
